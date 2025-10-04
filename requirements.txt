@@ -1,0 +1,6 @@
+Enter a valid IP range (single IP or CIDR) in the input box
+Example: 192.168.1.0/24
+
+Click "Scan Network"
+
+Results (IP, MAC, and open ports) will appear in the scrollable text area.
